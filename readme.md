@@ -10,8 +10,6 @@ Copy cozette.otb into /home/user/.local/share/fonts
 
 Copy telegram folder into ~/Documents and set theme and background via Telegram chat settings
 
-Copy keepass.kdbx into ~/Documents and open in KeepassXC
-
 # Credits
 
 [pyratebeard](https://wwww.pyratebeard.net) for the colour scheme and general inspiration
