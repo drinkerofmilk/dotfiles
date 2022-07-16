@@ -1,4 +1,4 @@
-[hello](dotfiles/screens/clean2.png)
+[hello](screens/clean2.png)
 
 # Installation
 
