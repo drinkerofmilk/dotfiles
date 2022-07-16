@@ -12,7 +12,7 @@ Copy telegram folder into ~/Documents and set theme and background via Telegram 
 
 # Credits
 
-[pyratebeard](https://wwww.pyratebeard.net) for the colour scheme and general inspiration
+[pyratebeard](https://wwww.pyratebeard.net) for the colour scheme, sysinfo and general inspiration
 [PixelArtJourney](https://twitter.com/PixelArtJourney) for the wallpaper
 [oomox](https://github.com/themix-project/oomox) for giving me an easy way to export the colour scheme into various apps
 
