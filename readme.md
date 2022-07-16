@@ -1,6 +1,6 @@
 # Installation
 
-Install keepassxc, xfce4-terminal, rofi, tint2, dunst & zathura
+Install xfce4-terminal, rofi, tint2, dunst & zathura
 
 Copy all folders beginning with a . into your home directory (~/)
 
