@@ -1,3 +1,5 @@
+[hello](dotfiles/screens/clean2.png)
+
 # Installation
 
 Install xfce4-terminal, rofi, tint2, dunst & zathura
