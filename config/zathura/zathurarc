@@ -1,0 +1,33 @@
+# Base16 oomox-port royal
+# Author: oomox-port royal
+
+set default-bg                  "#181818"
+set default-fg                  "#38393a"
+
+set statusbar-fg                "#040404"
+set statusbar-bg                "#525252"
+
+set inputbar-bg                 "#181818"
+set inputbar-fg                 "#d1cbb1"
+
+set notification-bg             "#181818"
+set notification-fg             "#d1cbb1"
+
+set notification-error-bg       "#181818"
+set notification-error-fg       "#c26862"
+
+set notification-warning-bg     "#181818"
+set notification-warning-fg     "#c26862"
+
+set highlight-color             "#6baec1"
+set highlight-active-color      "#7397a1"
+
+set completion-bg               "#38393a"
+set completion-fg               "#7397a1"
+
+set completion-highlight-fg     "#d1cbb1"
+set completion-highlight-bg     "#7397a1"
+
+set recolor-lightcolor          "#181818"
+set recolor-darkcolor           "#dedede"
+
